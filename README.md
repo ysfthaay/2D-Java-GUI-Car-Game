@@ -1,15 +1,18 @@
-Drive and Survive - 2D Java Car Game
+**Drive and Survive - 2D Java Car Game**
+
 Drive and Survive is a 2D car game developed using Java's GUI features. The primary objective is to avoid colliding with incoming vehicles and obstacles while maintaining a steady speed.
 
 NOTE: Background Music file is exculuded due to the file size limitations. Feel free to add music with 'background.wav' naming music class is already created and added to the files. You only need to add the music file to the assets folder.
 
 🎮 Gameplay Features
+
 Dynamic Difficulty: The game gets progressively harder as your score increases by adding more obstacles and increasing car speed.
 Responsive Controls: The player's car is controlled using the left and right arrow keys.
 Speed Mechanics: Difficulty is tied to the score, with speed increasing every 50 points (capped to ensure playability).
 Game States: Includes a main menu to start the game and a "Game Over" screen that displays your final score and allows for a quick restart.
 
 🛠️ Technologies Used
+
 Language: Java 
 GUI Framework: Swing 
 Development Environment: IntelliJ IDEA 
